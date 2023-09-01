@@ -61,12 +61,12 @@ Projetos em destaque: <a href="https://www.linkedin.com/feed/update/urn:li:activ
 Linguagens & Tecnologias: <code>HTML</code>, <code>CSS</code>, <code>JavaScript</code>, <code>TypeScript</code>, <code>React</code><br>
 Projetos em destaque: <a href="https://portfolio-niwanbernardo.vercel.app/">Portfolio</a><br><br>
 
-<a href="http://www.fatecsp.br/"><img align="left" height="94px" width="94px" alt="Fatec" src="https://th.bing.com/th/id/R.9a4dbbbc2afdabc5363b05a7208f422b?rik=dcR1PkzpbpdNUw&riu=http%3a%2f%2fwww.ranklogos.com%2fwp-content%2fuploads%2f2015%2f08%2fGoverno-Sao-Paulo-Logo.jpg&ehk=96aJe%2b4sVUuRsE%2fRAuwcCryaiMjVsuCknoBQppaiMpM%3d&risl=&pid=ImgRaw&r=0"/></a>
+<a href="http://www.fatecsp.br/"><img align="left" height="94px" width="94px" alt="Fatec" src="https://infoenem.com.br/wp-content/uploads/2015/10/fatec.jpg"/></a>
 <b>Análise e Desenvolvimento de Sistemas</b><br>
 <a href="http://www.fatecsp.br/"><b>FATEC-SP</b></a> • Curso Superior de Tecnologia (CST)<br>
 Linguagens & Tecnologias: <code>Front-End</code>, <code>Back-End</code>, <code>Dados</code>, <code>Mobile</code>, <code>IA</code><br>
 Projetos em destaque: <br><br>
-<p>Por gentileza, para informações mais detalhadas sobre experiência profissional, formação, bootcamps e certificações, encontre-me no <a href="https://www.linkedin.com/in/niwanbernardo/">LinkedIn</a></p>
+<p>📱 Por gentileza, para informações mais detalhadas sobre experiência profissional, formação, bootcamps e certificações, encontre-me no <a href="https://www.linkedin.com/in/niwanbernardo/">LinkedIn</a>.</p>
 <!-- Fim da seção "Formação" -->
 
 <!-- Início da seção "Contato" -->
