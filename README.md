@@ -49,7 +49,7 @@
 
 <!-- Início da seção "Formação" -->
 <h2>🎓 Formação: </h2>
-<a href="https://www.spacex.com/"><img align="left" height="94px" width="94px" alt="Google" src="https://th.bing.com/th/id/OIP.BpetYYjpOGivwElwQc25agHaHa?pid=ImgDet&rs=1"/></a>
+<a href="https://www.spacex.com/"><img align="left" height="94px" width="94px" alt="Google" src="https://www.salesforceben.com/wp-content/uploads/2021/03/google-logo-icon-PNG-Transparent-Background-2048x2048.png"/></a>
 <b>Análise de Dados</b><br>
 <a href="https://www.spacex.com/"><b>Google</b></a> • Certificado Profissional<br>
 Linguagens & Tecnologias: <code>Excel</code>, <code>SQL</code>, <code>Tableau</code>, <code>R</code> <br>
@@ -61,7 +61,7 @@ Projetos em destaque: <a href="https://www.linkedin.com/feed/update/urn:li:activ
 Linguagens & Tecnologias: <code>HTML</code>, <code>CSS</code>, <code>JavaScript</code>, <code>TypeScript</code>, <code>React</code><br>
 Projetos em destaque: <a href="https://portfolio-niwanbernardo.vercel.app/">Portfolio</a><br><br>
 
-<a href="http://www.fatecsp.br/"><img align="left" height="94px" width="94px" alt="Fatec" src="https://infoenem.com.br/wp-content/uploads/2015/10/fatec.jpg"/></a>
+<a href="http://www.fatecsp.br/"><img align="left" height="94px" width="94px" alt="Fatec" src="https://th.bing.com/th/id/R.85d3a7a9d7ff00c632dac8f61d328aa0?rik=OwtGF04280yoEw&riu=http%3a%2f%2fwww.big1news.com.br%2fwp-content%2fuploads%2f2013%2f10%2ffatec-logo.jpg&ehk=8h2n2aS%2bSdawg9WDiAqe6e9GnYRSzGI6F0O5VjiFHrs%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1"/></a>
 <b>Análise e Desenvolvimento de Sistemas</b><br>
 <a href="http://www.fatecsp.br/"><b>FATEC-SP</b></a> • Curso Superior de Tecnologia (CST)<br>
 Linguagens & Tecnologias: <code>Front-End</code>, <code>Back-End</code>, <code>Dados</code>, <code>Mobile</code>, <code>IA</code><br>
